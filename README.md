@@ -31,8 +31,6 @@ decryptedText[i] = '\0';
 }
 void printASCII(char *ciphertext)
 {
-10/04/2025, 09:39 EX-4-ADVANCED-ENCRYPTION-STANDARD-DES-ALGORITHM/README.md at main · SUBBIAH1904/EX-4-ADVANCED-…
-https://github.com/SUBBIAH1904/EX-4-ADVANCED-ENCRYPTION-STANDARD-DES-ALGORITHM/blob/main/README.md 1/3
 printf("Encrypted Message (ASCII values): ");
 for (int i = 0; i < strlen(ciphertext); i++)
 {
