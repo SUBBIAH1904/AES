@@ -58,6 +58,6 @@ return 0;
 ![image](https://github.com/user-attachments/assets/c61c9ae8-7599-4713-8831-6715b6f1fd16)
 
 # RESULT:
-        Hence,to use Advanced Encryption Standard (AES) Algorithm for a practical application
+Hence,to use Advanced Encryption Standard (AES) Algorithm for a practical application
 like URL Encryption is done successfully.
 
